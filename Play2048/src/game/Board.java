@@ -10,7 +10,6 @@ import java.util.ArrayList;
  * 
  * @author Kal Pandit
  * @author Ishaan Ivaturi
- * Code written by Mahika Busireddy
  **/
 public class Board {
     private int[][] gameBoard;               // the game board array
